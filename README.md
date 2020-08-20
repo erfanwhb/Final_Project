@@ -1,1 +1,1 @@
-# Final_Project
+# Final Project: In this project we configuring Kibana based on alet’s recommendations on Red_vs_Blue team Project, Testing alerts by performing exploits against the Capstone VM then assessing our targets and exploiting to capture flags on the Target1 and Target2.
